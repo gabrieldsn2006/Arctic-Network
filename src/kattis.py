@@ -45,7 +45,7 @@ for _ in range(T):
 
     edges = []
 
-    # cria todas as arestas
+    # cria todas as arestas possíveis 
     for i in range(P):
 
         x1, y1 = points[i]
